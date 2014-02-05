@@ -1,0 +1,12 @@
+http://nlpwp.org/book/chap-classification.xhtml
+
+- Disadvantage of Naive Bayes - strong feature independence assumption
+- Which model do we use; infinite number of models;
+	Ex: C1 (vertical) and C2 (y=mx+c) - separate the classes neately. But C2 is better. Why? It seperates the classes with wider margin that C1
+	and as such has more tolerance with respect to the unseen instances that fall outside the current class boundaries
+- Uniform Distribution: Every outcome is equally probable. *** uncertainity is at its maximum in uniforma distribution ***
+- A measure of uncertainity is entropy
+- Our model should be as uniform as possible. This can be done by maximizing entropy.
+- The over-riding principle in maximum entropy is that when nothing is known, the distribution should be as uniform as possible, that is have maximal entropy
+
+
